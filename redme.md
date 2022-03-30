@@ -4,4 +4,5 @@ On first lesson we listening next items :
 - who is developer
 - OS (Linux, Ios, Win)
 - What is Git, GitHub.
-- create an acount on git. Create my first 
+- create an acount on git. Create my first repository.
+- We look our homework
